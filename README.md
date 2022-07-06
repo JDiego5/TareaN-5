@@ -43,27 +43,41 @@ II. MARCO TEORICO
 
   10.1) Campo Magnetico.
   
+  ![image](https://user-images.githubusercontent.com/105677161/177453366-a4f15195-3f68-4ea5-889d-c05c50f63f04.png)
   
-  
+  ![image](https://user-images.githubusercontent.com/105677161/177453403-afb08950-fb77-4a89-9334-1bd95fcd2879.png)
+
+  ![image](https://user-images.githubusercontent.com/105677161/177453427-bd6efd6a-fc82-41f6-a6ff-ef679d0d4ba4.png)
+
   10.2) Electromagnetismo.
   
+  ![image](https://user-images.githubusercontent.com/105677161/177453491-b33300b5-b134-4cb1-9efd-8bab4de5ebc8.png)
   
-  
+  ![image](https://user-images.githubusercontent.com/105677161/177453565-c14175f5-bcaa-4e35-a2ac-dc5d1d674792.png)
+
   10.3) Dispositivos Electromagentismo.
   
+  ![image](https://user-images.githubusercontent.com/105677161/177453600-3561c83b-20b6-4d82-8b71-607e9a097e99.png)
   
-  
+  ![image](https://user-images.githubusercontent.com/105677161/177453638-6138dde1-bcd4-4136-b805-9434b5c85fc2.png)
+
   10.4) Histéresis Magnetica.
   
-  
+  ![image](https://user-images.githubusercontent.com/105677161/177453672-10089408-69e5-4664-a57a-bf396fa81af8.png)
   
   10.5) Induccion Electromagnetica.
   
+  ![image](https://user-images.githubusercontent.com/105677161/177453701-3a8286c1-f95f-4abc-b450-53423b483af0.png)
   
+  ![image](https://user-images.githubusercontent.com/105677161/177453811-d272f0c8-d360-4cf9-80a2-7b88ea7781cc.png)
+  
+  ![image](https://user-images.githubusercontent.com/105677161/177453859-b33ba1ae-b318-4111-81d9-a4348dc1c19e.png)
   
   10.6) Aplicacion Induccion Electromagnetica.
-
-
+  
+  ![image](https://user-images.githubusercontent.com/105677161/177453890-b5356df1-1dca-4872-b991-83ec3ff696d5.png)
+  
+  
 
 
 
