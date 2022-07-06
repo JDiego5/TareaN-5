@@ -22,6 +22,10 @@ I. OBJETIVOS:
     C)  Utilizar el análisis de lazos para determinar cantidades desconocidas en un circuito
 
     D)  Utilizar el análisis de nodos para determinar cantidades desconocidas en un circuito
+    
+    E)  Comprender el campo electromagnetico y sus funciones en la vida cotidiana.
+    
+    F)  Analizar el magnetismo y el electromagnetismo.
 
 II. MARCO TEORICO
 
@@ -77,8 +81,21 @@ II. MARCO TEORICO
   
   ![image](https://user-images.githubusercontent.com/105677161/177453890-b5356df1-1dca-4872-b991-83ec3ff696d5.png)
   
-  
+III. Resolucion Ejercicios
 
 
 
+IV. VIDEO.
+
+V. Conclusiones.
+
+    En conclusion dentro del noveno capitulo logramos entender como analizar los voltajes en los nodos, corriente en
+    las ramas, corriente en las mallas o lazos. Asi poder determinar las ecuaciones y el metodo a utilizar para poder
+    resolverlas ya se con determinantes o con metodo de sustición. Por otra parte en el capitulo 10, logramos analizar
+    que es el campo electromagnetico y electromagnetismo, asi como enteder la ley de Faraday, la implementacion del
+    campo electromagnetico dentro de los dispositivos.
+    
+VI. Bibliografia.
+
+Floyd, T. L. (2007). Principios de circuitos eléctricos (Octava edición) [Libro electrónico]. Pearson Education.
 
