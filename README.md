@@ -82,8 +82,16 @@ II. MARCO TEORICO
   ![image](https://user-images.githubusercontent.com/105677161/177453890-b5356df1-1dca-4872-b991-83ec3ff696d5.png)
   
 III. Resolucion Ejercicios
+    
+Capitulo 10
+    
+![image](https://user-images.githubusercontent.com/105677161/177677041-08c97658-4a73-4413-91b5-df520d7a3154.png)
 
+![image](https://user-images.githubusercontent.com/105677161/177677143-2452c71e-9e98-4cca-b6ab-37069ca0df5b.png)
 
+![image](https://user-images.githubusercontent.com/105677161/177677245-a670fb50-5591-459c-b090-b5b992fefcfa.png)
+    
+    
 
 IV. VIDEO.
 
