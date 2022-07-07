@@ -161,6 +161,8 @@ Capitulo 10
 
 IV. VIDEO.
 
+Link Video Youtube: https://youtu.be/yIz2kNlBEPM
+
 V. Conclusiones.
 
     En conclusion dentro del noveno capitulo logramos entender como analizar los voltajes en los nodos, corriente en
